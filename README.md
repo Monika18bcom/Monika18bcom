@@ -4,7 +4,7 @@ Hi 👋 My name is Monika
 Associate Software Engineer | Frontend Developer
 ------------------------------------------------
 
-I am a Frontend Developer with 2.1 years of experience building modern, scalable web applications using React.
+I am a Frontend Developer with 2.5 years of experience building modern, scalable web applications using React.
 
 - 🌍 Based in India  
 - 💼 Associate Software Engineer  
